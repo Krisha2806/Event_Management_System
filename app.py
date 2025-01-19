@@ -89,5 +89,9 @@ if is_login and user_type=='Participant':
         st.subheader("Your Registrations:")
         view_my_events(srn)
 
+# 
+
     else:
         st.subheader("About tasks")
+
+

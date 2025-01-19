@@ -1,0 +1,33 @@
+credentials:
+  usernames:
+    pes2ug20cs000:
+      name: Sample
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Member
+    pes2ug21cs206:
+      name: Ishita
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Member
+    pes2ug21cs239:
+      name: Krisha
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Member
+    pes2ug21cs084:
+      name: Aparna
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Member
+    pes2ug21cs227:
+      name: Kavya
+      password: $2b$12$2ZdWdojH/FWnHeAz695cxOiFzX2KZlur0HCjx/Mekra8nE9c8Mh.i # 123
+      type: Participant
+    pes2ug21cs150:
+      name: Darsh
+      password: $2b$12$2ZdWdojH/FWnHeAz695cxOiFzX2KZlur0HCjx/Mekra8nE9c8Mh.i # 123
+      type: Participant
+cookie:
+  expiry_days: 1
+  key: ishita # Must be string
+  name: ishita
+preauthorized:
+  emails:
+  - melsby@gmail.com
